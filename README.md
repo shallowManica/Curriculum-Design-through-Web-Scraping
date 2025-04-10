@@ -68,6 +68,7 @@ Finally, the two clustering results are compared and integrated into a final, we
   2. A plot showing the relationship between skills and average salaries.
 
 ---
+![Job Skill Frequence](job.png)
 
 ## Clustering Approaches
 
@@ -132,6 +133,7 @@ In the final report, the curriculum is further refined by combining elements fro
   A critical discussion of why the k-means curriculum was selected as optimal based on higher specialization and market alignment, while integrating the broad insights from hierarchical clustering.
 
 ---
+![Skill Clustering](skill_clu.png)
 
 ## How to Run the Notebook
 
